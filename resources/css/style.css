@@ -1,0 +1,57 @@
+body {
+	background-color: black;
+	font-family: Verdana, sans-serif;
+	color: white;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+p {
+	font-size: 21px;
+}
+
+a {
+	color: aquamarine;
+}
+
+.footer-excursion, p {
+	color: gray;
+}
+
+h2 {
+	font-weight: 300px;
+	font-size: 42px;
+}
+
+.excursion-coming {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.video-img,
+p,
+h1,
+h2 {
+	text-align: center;
+}
+
+
+.center {
+	display: block;
+    margin: 0 auto;
+}
+
+.iPhone-img {
+	padding-top: 18px;
+}
+
+.video-img {
+	padding-top: 18px;
+}
+
+.footer-excursion {
+	text-align: right;
+}
